@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Je suis Tamara Violeau, enchantée de vous rencontrer !
+
 ===============================Développeuse Front-end===============================
 
 Anciennement éducatrice de jeunes enfants, je recherche un stage de développeur web non rémunéré du 25/04 au 24/10/2023 (six mois). Mon expérience dans le domaine social m'a sensibilisée à l'importance de l'accessibilité pour tous, y compris pour les personnes en situation de handicap. Aujourd'hui, développeuse front-end sensibilisée à l'accessibilité, je souhaite mettre mes compétences et mes qualités humaines au service de votre entreprise et de vos projets.* 🌍  I'm based in Sizun (29450)* ✉️  You can contact me at [tamara.violeau@gmail.com](mailto:tamara.violeau@gmail.com)
