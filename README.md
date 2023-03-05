@@ -22,7 +22,7 @@ Anciennement éducatrice de jeunes enfants, je recherche un stage de développeu
 
 🌍 J'habite Sizun (29450) et recherche dans les secteurs de Brest, Landerneau, Morlaix.
 
-✉️  Tu peux me contacter me ici : [tamara.violeau@gmail.com](mailto:tamara.violeau@gmail.com)
+✉️  Tu peux me contacter ici : [tamara.violeau@gmail.com](mailto:tamara.violeau@gmail.com)
 
 ### Skills
 
