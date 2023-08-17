@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Je suis Tamara Violeau, enchantée de te rencontrer !
 
-==================Développeuse Front-end==================
+==================Développeuse Front-end Accessibilité ==================
 
 Développeuse front-end, sensibilisée à l'accessibilité, je souhaite mettre mes compétences au service de votre entreprise et de vos projets. Comment ? Lors d’une période d'alternance dans le cadre de ma formation Concepteur Développeur d’Application
 chez O’clock et se déroulant du 16/10/2023 au 31/01/2025.
