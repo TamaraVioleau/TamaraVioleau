@@ -6,7 +6,7 @@ NICE TO MEET YOU 👋,
 
 Diplôme DWWM (développeur web et web mobile) en pôche, je rentre en alternance CDA (concepteur développeur d'applications) en janvier 2024 jusqu'à juillet 2025.
 
-Mon animal totem est la baleine 🐋, un animal qui me ressemble par sa sagesse et sa taille imposante. Je suis animée par l'envie de transmettre l'information et une soif d'apprendre sur les sujets qui me passionnent (accessibilité numérique, UX/UI et le développement front-end).
+Mon animal totem est la baleine 🐋, un symbole de compassion et de communauté. Je m'engage activement à créer un environnement inclusif, à transmettre des connaissances et à apporter un soutien empathique à mes équipes. Je suis animée par l'envie de transmettre et une soif d'apprendre sur les sujets qui me passionnent (accessibilité numérique, UX/UI et le développement front-end).
 
 J'essaye de me rendre aux évènements en lien avec le tech le plus souvent possible pour continuer de m'enrichir et apprendre des autres collègues développeurs !
 
@@ -15,8 +15,6 @@ Je souhaite mettre mes compétences au service d'un monde numérique plus inclus
 🌍 J'habite Sizun (29450) et je m'intéresse aux évènements sur Brest, Landerneau, Morlaix.
 
 ## Mes compétences
-
-\`\`\`
 
 - Svelte
 - Directus
@@ -27,16 +25,14 @@ Je souhaite mettre mes compétences au service d'un monde numérique plus inclus
 - WordPress
 - Photoshop
 - Figma
-  \`\`\`
 
 ## Contactez-moi 📫
 
 Vous pouvez me suivre et me contacter sur :
+
 <p align="left"><a href="https://www.linkedin.com/in/tamara-violeau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ## Petit coin humour 😄
 
-\`\`\`javascript
-console.log("Merci d'avoir visité mon profil !");
-console.log("La fin n'est que le début.");
-\`\`\`
+```console.log("Merci d'avoir visité mon profil !");
+console.log("La fin n'est que le début.");```
