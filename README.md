@@ -3,7 +3,7 @@
 ## Qui suis-je ?
 
 <p align="left">
-<img align="right" width=300px alt="" src="[https://media.giphy.com/media/RM0Csu9TY1yqyyqvwR/giphy.gif](https://i.ibb.co/zGfwd4R/f5160cce99aa3bef51506e533ba0a446-1-removebg-preview.png)" />
+<img align="right" width=300px alt="" src="https://i.ibb.co/zGfwd4R/f5160cce99aa3bef51506e533ba0a446-1-removebg-preview.png" />
 
   <span style="margin-left: 20px;">
     NICE TO MEET YOU 👋, je suis titulaire du diplôme DWWM (développeur web et web mobile) et je rentre en alternance CDA (concepteur développeur d'applications) en janvier 2024 jusqu'à juillet 2025.
