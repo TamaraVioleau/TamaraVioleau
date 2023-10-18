@@ -1,34 +1,42 @@
-### Hello World 👋
+# Développeuse Web - Front-end - Accessibilité numérique
 
-<!--
-**TamaraVioleau/TamaraVioleau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?
 
-Here are some ideas to get you started:
+NICE TO MEET YOU 👋,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Je suis Tamara Violeau, enchantée de te rencontrer !
+Diplôme DWWM (développeur web et web mobile) en pôche, je rentre en alternance CDA (concepteur développeur d'applications) en janvier 2024 jusqu'à juillet 2025.
 
-==================Développeuse Front-end Accessibilité ==================
+Mon animal totem est la baleine 🐋, un animal qui me ressemble par sa sagesse et sa taille imposante. Je suis animée par l'envie de transmettre l'information et une soif d'apprendre sur les sujets qui me passionnent (accessibilité numérique, UX/UI et le développement front-end).
 
-Développeuse front-end, sensibilisée à l'accessibilité, je souhaite mettre mes compétences au service de votre entreprise et de vos projets. Comment ? Lors d’une période d'alternance dans le cadre de ma formation Concepteur Développeur d’Application
-chez O’clock et se déroulant du 16/10/2023 au 31/01/2025.
+J'essaye de me rendre aux évènements en lien avec le tech le plus souvent possible pour continuer de m'enrichir et apprendre des autres collègues développeurs !
 
-🌍 J'habite Sizun (29450) et recherche dans les secteurs de Brest, Landerneau, Morlaix.
+Je souhaite mettre mes compétences au service d'un monde numérique plus inclusif et plus accessible à tous. Geek dans l'âme, je suis une joueuse de jeux vidéos et rôliste sur forum. Je pratique également le yoga 🧘‍♀️ et je suis maman de deux chats 🐱🐱.
 
-✉️  Tu peux me contacter ici : [tamara.violeau@gmail.com](mailto:tamara.violeau@gmail.com)
+🌍 J'habite Sizun (29450) et je m'intéresse aux évènements sur Brest, Landerneau, Morlaix.
 
-### Skills
+## Mes compétences
 
+\`\`\`
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+- Svelte
+- Directus
+- HTML
+- CSS
+- JS
+- Sass
+- WordPress
+- Photoshop
+- Figma
+  \`\`\`
 
-### Socials<p align="left"> <a href="https://www.github.com/TamaraVioleau/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tamara-violeau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## Contactez-moi 📫
+
+Vous pouvez me suivre et me contacter sur :
+<p align="left"><a href="https://www.linkedin.com/in/tamara-violeau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+## Petit coin humour 😄
+
+\`\`\`javascript
+console.log("Merci d'avoir visité mon profil !");
+console.log("La fin n'est que le début.");
+\`\`\`
